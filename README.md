@@ -1,6 +1,6 @@
 ### Hi there   :waning_gibbous_moon:
 
-Eu sou a Mayara Moreira, sou uma Programadora Front End. ✨
+I'm Mayara, I'm a programmer Front End. ✨
 <br>
 <br>
 - 🌱 I’m currently learning:  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript-logo"/>
